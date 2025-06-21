@@ -6,9 +6,11 @@ This is a simple Tic Tac Toe game created using HTML, CSS, and JavaScript.
 
 ## Features
 - Two-player turn-based game
+- AI Mode
 - Detects win/draw
 - Reset functionality
 - Responsive and clean UI
+  
 
 ## How to Use
 1. Open `index.html` in a browser
